@@ -1,0 +1,228 @@
+# Page settings
+
+baseurl = "https://cv.drouet.io"
+languageCode = "en-us"
+title = "Mathieu Drouet - CV Resume"
+
+theme = "hugo-orbit-theme"
+googleAnalytics = "UA-XXXXXXX-Y"
+
+# Do not build files for websites. Need them? Set to false
+disableRSS = true
+disableSitemap = true
+disable404 = false
+
+[params]
+
+# Meta
+    description = "Mathieu Drouet - Information Technology Project Manager - open source enthousiast"
+    author = "Mathieu Drouet"
+
+# Theme styles
+
+    # The original template comes with 6 colour schemes. You may choose styles below.
+    # "styles.css", "styles-2.css", "styles-3.css", "styles-4.css", "styles-5.css", "styles-6.css"
+    # are available. Also the source LESS files are included so
+    # it’s quick and easy to change the styling and colour scheme.
+
+    styles = "styles.css"
+
+# Sidebar sections
+
+    # Profile section
+    [params.profile]
+        name = "Mathieu Drouet"
+        tagline = "Technical project manager - open source enthousiast"
+        avatar = "profile.jpg"
+
+    # Contact section
+    [params.contact]
+        enable = true
+
+        [[params.contact.list]]
+        class = "email"
+        icon = "fa-envelope"
+        url = "mailto: mathieu@drouet.io"
+        title = "email"
+
+        [[params.contact.list]]
+        class = "phone"
+        icon = "fa-phone"
+        url = "tel:+33767144874"
+        title = "+33 7 67 14 48 74"
+
+        [[params.contact.list]]
+        class = "website"
+        icon = "fa-globe"
+        url = "//drouet.io"
+        title = "cv.drouet.io"
+
+        [[params.contact.list]]
+        class = "linkedin"
+        icon = "fa-linkedin"
+        url = "//linkedin.com/in/mathieudrouet/"
+        title = "mathieudrouet"
+
+        [[params.contact.list]]
+        class = "github"
+        icon = "fa-github"
+        url = "//github.com/izo"
+        title = "github.com/izo"
+
+        [[params.contact.list]]
+        class = "twitter"
+        icon = "fa-twitter"
+        url = "//twitter.com/izo"
+        title = "@izo"
+
+    # Education section
+    [params.education]
+        enable = true
+        title = "Education"
+
+        [[params.education.list]]
+        degree = "Photography"
+        college = "ARIAP - Lille"
+        dates = "2000 - 2003"
+
+        [[params.education.list]]
+        degree = "Photography"
+        college = "Institut St Luc - Tournai"
+        dates = "1997 - 1999"
+
+    # Languages section
+    [params.language]
+        enable = true
+        title = "Languages"
+
+        [[params.language.list]]
+        language = "French"
+        level = "Native"
+
+        [[params.language.list]]
+        language = "English"
+        level = "Professional"
+        
+         [[params.language.list]]
+        language = "Spanish"
+        level = "Notion"
+        
+      
+
+
+
+    # Interests section
+    [params.interests]
+        enable = true
+        title = "Interests"
+
+        [[params.interests.list]]
+        interest = "Photography"
+
+        [[params.interests.list]]
+        interest = "Music"
+
+        [[params.interests.list]]
+        interest = "Wine & Cooking"
+
+# Main body sections
+
+    # You may use markdown in summary, details and intro fields. But don't overdose, it's resume!:)
+
+    # Summary section
+    [params.summary]
+        enable = true
+        icon = "fa-user"
+        title = "Career Profile"
+        summary = "Experienced Project Lead with a demonstrated history of working in the internet industry. Skilled in **Photography**, **Wordpress**, **SPIP**, **Hugo**, Team Building, and Art. Strong information technology professional."
+
+    # Experiences section
+    [params.experiences]
+        enable = true
+        icon = "fa-briefcase"
+        title = "Experiences"
+
+        [[params.jobs.list]]
+        position = "Information Technology Project Manager"
+        dates = "2016 - Present"
+        company = "Freelance, Everywhere"
+        details = "Project management, technical survey, team management, UI/UX"
+
+        [[params.jobs.list]]
+        position = "Manager photographer team"
+        dates = "2004 - Present"
+        company = "Dour Festival, Belgium"
+        details = "team management, curation, social media, technical survey"
+
+        [[params.jobs.list]]
+        position = "Information Technology Project Manager"
+        dates = "2016 - 2018"
+        company = "CAF, Arras"
+        details = "Project management, technical survey, team management, UI/UX, Open source contributor, business oriented social media"
+        
+        [[params.jobs.list]]
+        position = "Chief Technology Officer"
+        dates = "2016 - 2018"
+        company = "sacavin.fr, Lille"
+        details = "team management, curation, social media, technical survey"
+        
+		[[params.jobs.list]]
+        position = "Chief Technology Officer - founder"
+        dates = "2008 - 2018"
+        company = "takeasip.net, Lille"
+        details = "team management, curation, social media, technical survey"
+
+    # Projects section
+    [params.projects]
+        enable = true
+        icon = "fa-archive"
+        title = "Projects"
+        intro = "**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus"
+
+        [[params.projects.list]]
+        title = "SPIP"
+        url = "https://spip.net"
+        tagline = "templates and icon contributor"
+
+
+    # Skills section
+    [params.skills]
+        enable = true
+        icon = "fa-rocket"
+        title = "Skills & Proficiency"
+
+        [[params.skills.list]]
+        skill = "Project Management"
+        level = "98%"
+
+        [[params.skills.list]]
+        skill = "Javascript & jQuery"
+        level = "50%"
+
+        [[params.skills.list]]
+        skill = "SPIP, Wordpress, Drupal"
+        level = "95%"
+
+        [[params.skills.list]]
+        skill = "HTML5 & CSS"
+        level = "95%"
+
+        [[params.skills.list]]
+        skill = "PHP"
+        level = "75%"
+
+        [[params.skills.list]]
+        skill = "XD, Sketch & Photoshop"
+        level = "90%"
+
+    # Footer section
+
+    # The original template is released under the Creative Commons Attribution 3.0 License.
+    # Please keep the original attribution link when using for your own project.
+    # If you'd like to use the template without the attribution,
+    # you can check out other license options via template author's website: themes.3rdwavemedia.com
+    #
+    # As for Hugo port you may rewrite the "Ported for..." line with setting your name below.
+
+    [params.footer]
+        copyright = "Mathieu Drouet - build with love and HUGO"
