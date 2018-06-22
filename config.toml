@@ -4,7 +4,7 @@ baseurl = "https://cv.drouet.io"
 languageCode = "en-us"
 title = "Mathieu Drouet - CV Resume"
 
-theme = "cvorbit"
+theme = "cv_orbit"
 googleAnalytics = "UA-XXXXXXX-Y"
 
 # Do not build files for websites. Need them? Set to false
