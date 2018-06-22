@@ -9,7 +9,7 @@ googleAnalytics = "UA-30320788-3"
 
 # Do not build files for websites. Need them? Set to false
 disableRSS = true
-disableSitemap = true
+disableSitemap = false
 disable404 = false
 
 [params]
