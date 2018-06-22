@@ -1,6 +1,6 @@
 # Page settings
 
-baseurl = "cv.drouet.io"
+baseurl = "http://cv.drouet.io"
 languageCode = "en-us"
 title = "Mathieu Drouet - CV Resume"
 
