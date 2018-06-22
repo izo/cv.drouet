@@ -102,12 +102,12 @@ disable404 = false
         [[params.language.list]]
         language = "English"
         level = "Professional"
-        
+
          [[params.language.list]]
         language = "Spanish"
         level = "Notion"
-        
-      
+
+
 
 
 
@@ -134,7 +134,7 @@ disable404 = false
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = "Experienced Project Lead with a demonstrated history of working in the internet industry. Skilled in **Photography**, **Wordpress**, **SPIP**, **Hugo**, Team Building, and Art. Strong information technology professional."
+        summary = "Experienced Project Lead with a demonstrated history of working in the internet industry. Skilled in  **Wordpress**, **SPIP**, **Hugo**, Management, Digital Workfow, Team Building, and Art. Strong information technology professional."
 
     # Experiences section
     [params.experiences]
@@ -147,42 +147,69 @@ disable404 = false
         dates = "2016 - Present"
         company = "Freelance, Everywhere"
         details = "Project management, technical survey, team management, UI/UX"
+        projects = "Current project"
+        url_projet = "http://drouet.io/projects"
 
         [[params.jobs.list]]
         position = "Manager photographer team"
         dates = "2004 - Present"
         company = "Dour Festival, Belgium"
         details = "team management, curation, social media, technical survey"
+        projects = "dourfestival"
+        url_projet = "http://www.dourfestival.eu/fr/"
 
         [[params.jobs.list]]
         position = "Information Technology Project Manager"
         dates = "2016 - 2018"
         company = "CAF, Arras"
         details = "Project management, technical survey, team management, UI/UX, Open source contributor, business oriented social media"
-        
+        projects = "Mon RAM 62"
+        url_projet = "http://drouet.io/projects/monram62"
+
         [[params.jobs.list]]
         position = "Chief Technology Officer"
         dates = "2016 - 2018"
         company = "sacavin.fr, Lille"
         details = "team management, curation, social media, technical survey"
-        
+        projects = "Sacavin"
+        url_projet = "http://drouet.io/projects/sacavin"
+
+
 		[[params.jobs.list]]
         position = "Chief Technology Officer - founder"
         dates = "2008 - 2018"
-        company = "takeasip.net, Lille"
+        company = "Takeasip, Lille"
         details = "team management, curation, social media, technical survey"
+        projects = "takeasip"
+        url_projet = "http://drouet.io/projects/takeasip"
+
 
     # Projects section
     [params.projects]
         enable = true
         icon = "fa-archive"
         title = "Projects"
-        intro = "**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus"
+        intro = "Side projects"
 
         [[params.projects.list]]
-        title = "SPIP"
+        title = "🐿 SPIP"
         url = "https://spip.net"
         tagline = "templates and icon contributor"
+
+        [[params.projects.list]]
+        title = "🎭 Icon Tango Project"
+        url = "http://tango.freedesktop.org/Tango_Desktop_Project"
+        tagline = "icon contributor"
+
+        [[params.projects.list]]
+        title = "📸 Webmaster Plateformag"
+        url = "http://www.plateformag.com/"
+        tagline = "webmaster, curation, contributor"
+
+        [[params.projects.list]]
+        title = "📺 AppleTV2SPIP "
+        url = "#"
+        tagline = "generate tvml / tvos with SPIP"
 
 
     # Skills section
