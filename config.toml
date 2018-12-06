@@ -134,7 +134,7 @@ disable404 = false
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = "Experienced Project Lead with a demonstrated history of working in the internet industry. Skilled in  **Wordpress**, **SPIP**, **Hugo**, Management, Digital Workfow, Team Building, and Art. Strong information technology professional."
+        summary = "Experienced Project Lead and head of content with a demonstrated history of working in the internet industry. Skilled in  standart CMS, Jamstack , Management, Digital Workfow, Team Building, and Art. Strong information technology professional."
 
     # Experiences section
     [params.experiences]
