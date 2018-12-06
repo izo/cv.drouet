@@ -107,10 +107,6 @@ disable404 = false
         language = "Spanish"
         level = "Notion"
 
-
-
-
-
     # Interests section
     [params.interests]
         enable = true
