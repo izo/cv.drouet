@@ -151,7 +151,7 @@ disable404 = false
         dates = "2016 - Present"
         company = "Freelance, Everywhere"
         details = "Project management, technical survey, team management, UI/UX"
-        projects = "Current project"
+        projects = "Freelance"
         url_projet = "http://drouet.io/projects"
 
         [[params.jobs.list]]
