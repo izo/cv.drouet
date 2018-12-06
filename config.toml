@@ -15,7 +15,7 @@ disable404 = false
 [params]
 
 # Meta
-    description = "Mathieu Drouet - Information Technology Project Manager - open source enthousiast"
+    description = "Mathieu Drouet - Head of Content Project Manager - Open source enthousiast"
     author = "Mathieu Drouet"
 
 # Theme styles
@@ -32,7 +32,7 @@ disable404 = false
     # Profile section
     [params.profile]
         name = "Mathieu Drouet"
-        tagline = "Technical project manager - open source enthousiast"
+        tagline = "Head of Content - Technical project manager"
         avatar = "profile.jpg"
 
     # Contact section
