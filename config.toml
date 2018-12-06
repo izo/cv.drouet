@@ -145,7 +145,7 @@ disable404 = false
         company = "Techsys"
         details = "Project management, Art Direction, Content Production"
         projects = "Current project"
-        url_projet = "http://drouet.io/projects"
+        url_projet = "http://drouet.io/projects/techsys"
         
         position = "Information Technology Project Manager"
         dates = "2016 - Present"
