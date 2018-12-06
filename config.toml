@@ -143,6 +143,14 @@ disable404 = false
         title = "Experiences"
 
         [[params.jobs.list]]
+        
+        position = "Head of Content -  Project Manager"
+        dates = "June 2018 - December 2018"
+        company = "Techsys"
+        details = "Project management, Art Direction, Content Production"
+        projects = "Current project"
+        url_projet = "http://drouet.io/projects"
+        
         position = "Information Technology Project Manager"
         dates = "2016 - Present"
         company = "Freelance, Everywhere"
