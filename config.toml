@@ -140,7 +140,7 @@ disable404 = false
 
         [[params.jobs.list]]
         
-        position = "Head of Content -  Project Manager"
+        position = "Head of Content - Project Manager"
         dates = "June 2018 - December 2018"
         company = "Techsys"
         details = "Project management, Art Direction, Content Production"
@@ -152,7 +152,7 @@ disable404 = false
         company = "Freelance, Everywhere"
         details = "Project management, technical survey, team management, UI/UX"
         projects = "Freelance"
-        url_projet = "http://drouet.io/projects"
+        url_projet = "http://drouet.io"
 
         [[params.jobs.list]]
         position = "Manager photographer team"
