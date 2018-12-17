@@ -150,7 +150,6 @@ disable404 = false
         company = "Techsys"
         details = "Project management, Art Direction, Content Production"
         projects = "Techsys"
-        url_projet = "http://drouet.io/projects/techsys"
 
         [[params.jobs.list]]
         position = "Head of Content - website Project Manager"
@@ -158,7 +157,6 @@ disable404 = false
         company = "Domaine de Cazaban"
         details = "Project management, Art Direction, Content Production, QA"
         projects = "Cazaban"
-        url_projet = "http://drouet.io/projects/cazaban"
 
         [[params.jobs.list]]
         position = "Information Technology Project Manager"
@@ -166,7 +164,7 @@ disable404 = false
         company = "Freelance, Everywhere"
         details = "Project management, technical survey, team management, UI/UX"
         projects = "Freelance"
-        url_projet = "http://drouet.io"
+        url_projet = "https://drouet.io"
 
         [[params.jobs.list]]
         position = "Manager photographer team"
@@ -182,7 +180,7 @@ disable404 = false
         company = "CAF, Arras"
         details = "Project management, technical survey, team management, UI/UX, Open source contributor, business oriented social media"
         projects = "Mon RAM 62"
-        url_projet = "http://drouet.io/projects/monram62"
+        url_projet = "https://www.monram62.info/"
 
         [[params.jobs.list]]
         position = "Chief Technology Officer"
@@ -190,7 +188,7 @@ disable404 = false
         company = "sacavin.fr, Lille"
         details = "team management, curation, social media, technical survey"
         projects = "Sacavin"
-        url_projet = "http://drouet.io/projects/sacavin"
+        url_projet = "https://twitter.com/monsacavin"
 
 
 		[[params.jobs.list]]
@@ -199,7 +197,7 @@ disable404 = false
         company = "Takeasip, Lille"
         details = "team management, curation, social media, technical survey"
         projects = "takeasip"
-        url_projet = "http://drouet.io/projects/takeasip"
+        url_projet = "http://takeasip.net/"
 
 
     # Projects section
