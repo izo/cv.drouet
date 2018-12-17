@@ -147,6 +147,14 @@ disable404 = false
         url_projet = "http://drouet.io/projects/techsys"
 
         [[params.jobs.list]]
+        position = "Head of Content - website Project Manager"
+        dates = "Feb 2018 - December 2018"
+        company = "Domaine de Cazaban"
+        details = "Project management, Art Direction, Content Production"
+        projects = "Current project"
+        url_projet = "http://drouet.io/projects/cazaban"
+
+        [[params.jobs.list]]
         position = "Information Technology Project Manager"
         dates = "2016 - Present"
         company = "Freelance, Everywhere"
@@ -228,7 +236,7 @@ disable404 = false
 
         [[params.skills.list]]
         skill = "Jamstack & Hugo"
-        level = "80%"
+        level = "60%"
 
         [[params.skills.list]]
         skill = " Quality Assurance web"
