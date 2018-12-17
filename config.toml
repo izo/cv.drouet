@@ -58,6 +58,12 @@ disable404 = false
         title = "cv.drouet.io"
 
         [[params.contact.list]]
+        class = "website"
+        icon = "fa-photo"
+        url = "//mathieu-drouet.com"
+        title = "portfolio"
+
+        [[params.contact.list]]
         class = "linkedin"
         icon = "fa-linkedin"
         url = "//linkedin.com/in/mathieudrouet/"
@@ -143,15 +149,15 @@ disable404 = false
         dates = "June 2018 - December 2018"
         company = "Techsys"
         details = "Project management, Art Direction, Content Production"
-        projects = "Current project"
+        projects = "Techsys"
         url_projet = "http://drouet.io/projects/techsys"
 
         [[params.jobs.list]]
         position = "Head of Content - website Project Manager"
         dates = "Feb 2018 - December 2018"
         company = "Domaine de Cazaban"
-        details = "Project management, Art Direction, Content Production"
-        projects = "Current project"
+        details = "Project management, Art Direction, Content Production, QA"
+        projects = "Cazaban"
         url_projet = "http://drouet.io/projects/cazaban"
 
         [[params.jobs.list]]
