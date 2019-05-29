@@ -32,7 +32,7 @@ disable404 = false
     # Profile section
     [params.profile]
         name = "Mathieu Drouet"
-        tagline = "Head of Content - Technical project manager"
+        tagline = "Head of Content - Assurance Quality & Technical project manager"
         avatar = "profile.jpg"
 
     # Contact section
@@ -143,6 +143,13 @@ disable404 = false
         enable = true
         icon = "fa-briefcase"
         title = "Experiences"
+
+        [[params.jobs.list]]
+        position = "Assurance Quality & After Sales - Project Manager"
+        dates = "March 20198 - Now"
+        company = "Riiot Labs - Fluidra"
+        details = "Project management, Quality Assurance,"
+        projects = "Riiot"
 
         [[params.jobs.list]]
         position = "Head of Content - Project Manager"
