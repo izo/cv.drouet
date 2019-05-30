@@ -184,7 +184,7 @@ disable404 = false
         [[params.jobs.list]]
         position = "Information Technology Project Manager"
         dates = "2016 - 2018"
-        company = "CAF, Arras"
+        company = "CAF"
         details = "Project management, technical survey, team management, UI/UX, Open source contributor, business oriented social media"
         projects = "Mon RAM 62"
         url_projet = "https://www.monram62.info/"
