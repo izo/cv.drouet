@@ -15,7 +15,7 @@ disable404 = false
 [params]
 
 # Meta
-    description = "Mathieu Drouet - Head of Content Project Manager - Open source enthousiast"
+    description = "Mathieu Drouet - Head of Content - Project Manager - Open source enthousiast"
     author = "Mathieu Drouet"
 
 # Theme styles
@@ -148,7 +148,7 @@ disable404 = false
         position = "Assurance Quality & After Sales - Project Manager"
         dates = "March 20198 - Now"
         company = "Riiot Labs - Fluidra"
-        details = "Project management, Quality Assurance,"
+        details = "Project management, Quality Assurance, Product owner mobile app, After Sales management, Zendesk to Intercom migration"
         projects = "Riiot"
 
         [[params.jobs.list]]
