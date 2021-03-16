@@ -32,7 +32,7 @@ disable404 = false
     # Profile section
     [params.profile]
         name = "Mathieu Drouet"
-        tagline = "Head of Content - Assurance Quality & Technical project manager"
+        tagline = "Project Owner UI/UX - Open source enthousiast""
         avatar = "profile.jpg"
 
     # Contact section
