@@ -280,6 +280,10 @@ disable404 = false
         [[params.skills.list]]
         skill = "XD, Sketch & Photoshop"
         level = "90%"
+        
+        [[params.skills.list]]
+        skill = "Jira, Confluence, Git"
+        level = "90%"
 
     # Footer section
 
