@@ -32,7 +32,7 @@ disable404 = false
     # Profile section
     [params.profile]
         name = "Mathieu Drouet"
-        tagline = "Project Owner UI/UX - Open source enthousiast""
+        tagline = "Project Owner UI/UX - Open source enthousiast"
         avatar = "profile.jpg"
 
     # Contact section
@@ -136,11 +136,7 @@ disable404 = false
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = "Accomplished, resourceful and enthusiastic Information Technology Professional with 12+ years’ experience in IT / web project management. 
-        
-        Experienced Project Lead with a demonstrated history of working in the internet industry. Skilled in IOT, UX, Mobile Application ( Flutter framework ), customer experience,CMS ( spip, WordPress), web frontend technology ( bootstrap, html5, css3 ), team management, aftersales Workflow, project management ( agile / scrum jira ), art direction, quality assurance, social media and technical survey.
-        
-         Great work ethic and commitment for compliance with professional codes, regulations "
+        summary = "Accomplished, resourceful and enthusiastic Information Technology Professional with 12+ years experience in IT /web project management. Experienced Project Lead with a demonstrated history of working in the internet industry. Skilled in IOT, UX, Mobile Application ( Flutter framework ), customer experience,CMS ( spip, WordPress), web frontend technology (bootstrap, html5,css3 ), team management, aftersales Workflow, project management ( agile / scrum jira ), art direction, quality assurance, social media and technical survey. Great work ethic and commitment for compliance with professional codes, regulations"
 
     # Experiences section
     [params.experiences]
