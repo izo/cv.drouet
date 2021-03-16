@@ -136,7 +136,11 @@ disable404 = false
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = "Experienced Project Lead and head of content with a demonstrated history of working in the internet industry. Skilled in  standart CMS, Jamstack , Management, Digital Workfow, Team Building, and Art. Strong information technology professional."
+        summary = "Accomplished, resourceful and enthusiastic Information Technology Professional with 12+ years’ experience in IT / web project management. 
+        
+        Experienced Project Lead with a demonstrated history of working in the internet industry. Skilled in IOT, UX, Mobile Application ( Flutter framework ), customer experience,CMS ( spip, WordPress), web frontend technology ( bootstrap, html5, css3 ), team management, aftersales Workflow, project management ( agile / scrum jira ), art direction, quality assurance, social media and technical survey.
+        
+         Great work ethic and commitment for compliance with professional codes, regulations "
 
     # Experiences section
     [params.experiences]
@@ -145,11 +149,11 @@ disable404 = false
         title = "Experiences"
 
         [[params.jobs.list]]
-        position = "Assurance Quality & After Sales - Project Manager"
+        position = "APP - IOT UI/UX - PRODUCT OWNER"
         dates = "March 20198 - Now"
-        company = "Riiot Labs - Fluidra"
-        details = "Project management, Quality Assurance, Product owner mobile app, After Sales management, Zendesk to Intercom migration"
-        projects = "Riiot"
+        company = "Fluidra"
+        details = "Leading the development of IOT applications ( Blue Connect ) at Fluidra EMEA, app mobile project owner, responsible for project management, workflow and ux ui design, quality assurance & after sales"
+        projects = "Fluidra Blue Connect"
 
         [[params.jobs.list]]
         position = "Head of Content - Project Manager"
