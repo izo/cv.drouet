@@ -15,7 +15,7 @@ disable404 = false
 [params]
 
 # Meta
-    description = "Mathieu Drouet - Head of Content - Project Manager - Open source enthousiast"
+    description = "Mathieu Drouet  - Project Owner UI/UX - Open source enthousiast"
     author = "Mathieu Drouet"
 
 # Theme styles
@@ -229,14 +229,14 @@ disable404 = false
         tagline = "icon contributor"
 
         [[params.projects.list]]
-        title = "📸 Webmaster Plateformag"
-        url = "http://www.plateformag.com/"
+        title = "📸 Webmaster Collectif DR"
+        url = "https://collectif-dr.com"
         tagline = "webmaster, curation, contributor"
 
         [[params.projects.list]]
-        title = "📺 AppleTV2SPIP "
+        title = " Blue Diag App "
         url = "#"
-        tagline = "generate tvml / tvos with SPIP"
+        tagline = "flutter diagnostic app for IOT product"
 
 
     # Skills section
@@ -272,6 +272,10 @@ disable404 = false
         [[params.skills.list]]
         skill = "PHP"
         level = "75%"
+        
+        [[params.skills.list]]
+        skill = "Flutter"
+        level = "50%"
 
         [[params.skills.list]]
         skill = "XD, Sketch & Photoshop"
